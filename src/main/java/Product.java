@@ -15,8 +15,6 @@ public class Product {
         this.expiryDate = expiryDate;
     }
 
-
-
     public String getName() {
         return name;
     }
